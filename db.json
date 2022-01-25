@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "Abhilekh sramag",
+      "email": "abhilekhsarmah200@gmail.com",
+      "publishedat": "2022-01-18",
+      "id": 1
+    },
+    {
+      "name": "abhishek",
+      "email": "lekhabhi3@gmail.com",
+      "publishedat": "2022-01-18",
+      "id": 2
+    },
+    {
+      "name": "aqs",
+      "id": 3
+    }
+  ]
+}
